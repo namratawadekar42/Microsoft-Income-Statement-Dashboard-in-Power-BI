@@ -1,2 +1,2 @@
 # Microsoft-Income-Statement-Dashboard-in-Power-BI
-The " Microsoft's Income Statement Dashboard in Power BI" project focuses on creating a comprehensive and insightful dashboard that visualizes key financial metrics from Microsoft's income statement. 
+The " Microsoft's Income Statement Dashboard in Power BI" project focuses on creating a comprehensive and insightful dashboard that visualizes key financial metrics from Microsoft's income statement. Utilizing the capabilities of Microsoft's own Power BI platform, this project aims to deliver a dynamic and informative tool that enables stakeholders to understand and analyze Microsoft's financial performance.
